@@ -1,5 +1,6 @@
 # WebsiteDeportivo : AMOREF00T
-- El proyecto consiste en realizar un website responsive con HTML y CSS
+- El proyecto consiste en realizar un website responsive con HTML y CSS.
+- se incluye algunos ficheros de javascript que permiten hacer una primera aproximación con el lenguaje.
 - Cuenta con 5 páginas: inicio, club, equipos, actualidad y una tienda.
 
 
