@@ -5,11 +5,11 @@
 
 # Equipo de coders
 
-- 👩‍💻: @https://github.com/Zguedest 
-- :woman_student: @https://github.com/Shamanesss
-- :technologist: @https://github.com/Gorka1999
-- :ninja: @https://github.com/nasre21
-- :man_astronaut: @https://github.com/jorge-ariznabarreta-zabala
+- 👩‍💻: @https://github.com/Zguedest (INICIO)
+- :ninja: @https://github.com/nasre21 (CLUB)
+- :technologist: @https://github.com/Gorka1999 (EQUIPOS)
+- :woman_student: @https://github.com/Shamanesss (ACTUALIDAD)
+- :man_astronaut: @https://github.com/jorge-ariznabarreta-zabala (TIENDA)
 
 https://www.peñascalf5.org/
 
