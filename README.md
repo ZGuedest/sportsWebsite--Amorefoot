@@ -6,7 +6,7 @@
 
 # Equipo de coders
 
-- 👩‍💻: @https://github.com/Zguedest (INICIO)
+- :woman_technologist: @https://github.com/Zguedest (INICIO)
 - :ninja: @https://github.com/nasre21 (CLUB)
 - :technologist: @https://github.com/Gorka1999 (EQUIPOS)
 - :woman_student: @https://github.com/Shamanesss (ACTUALIDAD)
